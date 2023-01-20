@@ -3,6 +3,8 @@ AWS Experiments :: Lambda Multithreading
 
 This repo contains code (infra + app) for my Lambda Multithreading experiment.
 
+I published a Medium article about this, which you can read here: https://medium.com/p/multithreading-in-aws-lambda-part-1-performance-scaling-6e2bc3d7796f
+
 **If you aren't interested in delving too deep, here's the bottomline so far:**
 
 ![Results_BothArchs](https://user-images.githubusercontent.com/24997018/212846707-e0920aeb-7471-4458-84b6-77a57111556a.png)
